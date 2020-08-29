@@ -1,0 +1,4 @@
+# Exclude these files:
+*.in
+*.out
+*.pyc
